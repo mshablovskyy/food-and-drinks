@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creatures>
+    <creature>
+        <description>in this blok are different Juice drinks</description>
+        <drinks>
+            <first id "123" teg="first"> tomato Juice</first>
+            <secondid id="546" teg="second"> lemon Juice</secod>
+            <third id="79" teg="third"> apple Juice</third>
+            <four id="49" teg="four"> orenge Juice </four>
+        </drinks>
+    </creature>
+
+    <creature>
+        <description>in this blok are different alcohole drinks</description>
+        <drinks>
+            <first id "1203" teg="first"> bear</first>
+            <second id="5946" teg="second"> vodka</secod>
+            <third id="97539" teg="third"> tekila </third>
+            <four id="869" teg="four"> rom </four>
+        </drinks>
+
+    </creature>
+
+    <creature>
+        <description>in this blok are different ukrainian delicious food</description>
+        <drinks>
+            <first id "12337" teg="first"> Borsch</first>
+            <second id="52446" teg="second"> Salo (bacon, lard)</secod>
+            <third id="9439" teg="third"> VARENIKI </third>
+            <four id="949" teg="four"> DERUNY </four>
+        </drinks>
+    </creature>
+
+    <creature>
+        <description>in this blok are different polish delicious food</description>
+        <drinks>
+            <first id "123" teg="first"> Pierogi</first>
+            <second id="546" teg="second"> Bigos</secod>
+            <third id="99" teg="third"> Placki ziemniaczane</third>
+            <four id="99734" teg="four"> Barszcz</four>
+        </drinks>
+    </creature>
+
+     <creature>
+        <description>in this blok are different polish delicious food</description>
+        <drinks>
+            <first id "1224563" teg="first"> Pierogi</first>
+            <second id="56546" teg="second"> Bigos</secod>
+            <third id="9259" teg="third"> Placki ziemniaczane</third>
+            <four id="9749" teg="four"> Barszcz</four>
+        </drinks>
+    </creature>
+
+    <creature>
+        <description>in this blok are different germany delicious food</description>
+        <drinks>
+            <first id "3123" teg="first"> Brot Brötchen</first>
+            <second id="53546" teg="second"> Käsespätzle</secod>
+            <thirdv id="9779" teg="third"> Currywurst</third>
+            <four id="97349" teg="four"> Rouladen</four>
+        </drinks>
+    </creature>
+</creatures>
