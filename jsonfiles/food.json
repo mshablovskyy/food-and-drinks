@@ -1,0 +1,13 @@
+{
+    "dairy":"milk",
+    "vegetables":true,
+    "amount": 2,
+    "cost":2.50,
+    "fruits":[
+        "apple",
+        "peach"
+    ],
+    "salad":"green",
+    "nuts":"peanuts",
+    "meat":{"main":"chicken", "age":1, "cost":100.50}
+}
