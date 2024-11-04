@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creatures>
+    <creature>
+        <description>in this blok are different Juse drinks</description>
+        <drinks>
+            <first> tomato juse</first>
+            <second> lemon juse</secod>
+            <third> apple juse</third>
+            <four></four>
+        </drinks>
+    </creature>
+
+    <creature>
+        <description>in this blok are different alcohole drinks</description>
+        <drinks>
+            <first> bear</first>
+            <second> vodka</secod>
+            <third> tekila </third>
+            <four> rom </four>
+        </drinks>
+
+    </creature>
+
+    <creature>
+        <description>in this blok are different ukrainian delicious food</description>
+        <drinks>
+            <first> Borsch</first>
+            <second> Salo (bacon, lard)</secod>
+            <third> VARENIKI </third>
+            <four> DERUNY </four>
+        </drinks>
+    </creature>
+
+    <creature>
+        <description>in this blok are different polish delicious food</description>
+        <drinks>
+            <first> Pierogi</first>
+            <second> Bigos</secod>
+            <third> Placki ziemniaczane</third>
+            <four> Barszcz</four>
+        </drinks>
+    </creature>
+
+     <creature>
+        <description>in this blok are different polish delicious food</description>
+        <drinks>
+            <first> Pierogi</first>
+            <second> Bigos</secod>
+            <third> Placki ziemniaczane</third>
+            <four> Barszcz</four>
+        </drinks>
+    </creature>
+
+    <creature>
+        <description>in this blok are different germany delicious food</description>
+        <drinks>
+            <first> Brot Brötchen</first>
+            <second> Käsespätzle</secod>
+            <third> Currywurst</third>
+            <four> Rouladen</four>
+        </drinks>
+    </creature>
+</creatures>
